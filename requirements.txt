@@ -9,3 +9,4 @@ retina-face
 cloudinary
 pillow
 requests
+python-dotenv
