@@ -1,12 +1,12 @@
 fastapi
 uvicorn
-python-multipart
-opencv-python-headless
 numpy
+opencv-python
+pandas
+ultralytics
 deepface
-tensorflow-cpu
-retina-face
 cloudinary
-pillow
+tensorflow==2.20.0
+tf-keras
 requests
 python-dotenv
